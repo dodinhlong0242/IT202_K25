@@ -1,0 +1,47 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Trang-1" id="T_jCUoLfPxkqm-lrtu7r">
+    <mxGraphModel dx="1094" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4pq5AF1siSUrmfbXM384-6" edge="1" parent="1" source="4pq5AF1siSUrmfbXM384-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="4pq5AF1siSUrmfbXM384-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4pq5AF1siSUrmfbXM384-7" edge="1" parent="1" source="4pq5AF1siSUrmfbXM384-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="4pq5AF1siSUrmfbXM384-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="380" />
+              <mxPoint x="310" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4pq5AF1siSUrmfbXM384-8" edge="1" parent="1" source="4pq5AF1siSUrmfbXM384-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="4pq5AF1siSUrmfbXM384-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="335" />
+              <mxPoint x="520" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4pq5AF1siSUrmfbXM384-9" edge="1" parent="1" source="4pq5AF1siSUrmfbXM384-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4pq5AF1siSUrmfbXM384-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4pq5AF1siSUrmfbXM384-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;STUDENTS&#xa;&#xa;" vertex="1">
+          <mxGeometry height="100" width="230" x="270" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="4pq5AF1siSUrmfbXM384-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;u&gt;&lt;br&gt;StudentID &lt;br&gt;&lt;/u&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="60" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4pq5AF1siSUrmfbXM384-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&#xa;Fullname&#xa;&#xa;" vertex="1">
+          <mxGeometry height="80" width="120" x="250" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4pq5AF1siSUrmfbXM384-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&#xa;DateOfBirth&#xa;&#xa;" vertex="1">
+          <mxGeometry height="80" width="120" x="460" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4pq5AF1siSUrmfbXM384-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&#xa;Class&#xa;&#xa;" vertex="1">
+          <mxGeometry height="80" width="120" x="670" y="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
