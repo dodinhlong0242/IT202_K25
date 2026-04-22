@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Trang-1" id="cBAaZ5_sUk0gHandfDQU">
-    <mxGraphModel dx="1094" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1030" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,7 +60,7 @@
         <mxCell id="A4IwQ98RJDMX2pTofXAI-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;BOOKS&#xa;&#xa;" vertex="1">
           <mxGeometry height="60" width="120" x="540" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="A4IwQ98RJDMX2pTofXAI-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&#xa;AuthorID &#xa;&#xa;" vertex="1">
+        <mxCell id="A4IwQ98RJDMX2pTofXAI-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;u&gt;&lt;br&gt;AuthorID &lt;br&gt;&lt;/u&gt;" vertex="1">
           <mxGeometry height="80" width="120" y="220" as="geometry" />
         </mxCell>
         <mxCell id="A4IwQ98RJDMX2pTofXAI-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&#xa;Name&#xa;&#xa;" vertex="1">
@@ -69,8 +69,8 @@
         <mxCell id="A4IwQ98RJDMX2pTofXAI-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&#xa;Bio&#xa;&#xa;" vertex="1">
           <mxGeometry height="80" width="120" x="270" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="A4IwQ98RJDMX2pTofXAI-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&#xa;BookID &#xa;&#xa;" vertex="1">
-          <mxGeometry height="80" width="120" x="420" y="190" as="geometry" />
+        <mxCell id="A4IwQ98RJDMX2pTofXAI-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;u&gt;&lt;br&gt;BookID &lt;br&gt;&lt;/u&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="413.5" y="190" as="geometry" />
         </mxCell>
         <mxCell id="A4IwQ98RJDMX2pTofXAI-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&#xa;Title&#xa;&#xa;" vertex="1">
           <mxGeometry height="80" width="120" x="550" y="150" as="geometry" />
